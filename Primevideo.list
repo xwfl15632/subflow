@@ -1,0 +1,7 @@
+# 内容：Primevideo
+# 数量：条
+USER-AGENT,*primevideo*
+USER-AGENT,Primevideo*
+USER-AGENT,com.amazon.ios.primevideo*
+DOMAIN-KEYWORD,primevideo
+DOMAIN-SUFFIX,primevideo.com
