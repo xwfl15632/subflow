@@ -2,8 +2,8 @@
 # 数量：7条
 USER-AGENT,HBOMAX*
 DOMAIN,cdn-media.brightline.tv
+DOMAIN,out053a3bejgh7t0phqa0csou.litix.io
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,discomax.com
 DOMAIN-SUFFIX,prd.media.h264.io
-DOMAIN-KEYWORD,litix
